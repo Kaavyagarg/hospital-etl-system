@@ -22,3 +22,8 @@ Scalability for billions of records
 SQL Server based solution
 Optimized for high-volume processing
 Comprehensive error handling
+
+Repository Structure
+/sql/tables.sql - All table creation scripts
+/sql/procedures.sql - Data validation and distribution procedures
+/docs/solution.md - Detailed solution documentation
